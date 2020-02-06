@@ -1,0 +1,32 @@
+* {
+  font-family: helvetica;
+  color: white;
+  background-color: #001b40;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin-top: 3%;
+}
+h2, h3 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 3%;
+}
+p {
+  font-size: 16px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+input[type=text] {
+width:50%;
+height:20%;
+background-color: white;
+color: black;
+}
+#FormText {
+  text-align: left;
+  font-size: 16px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
